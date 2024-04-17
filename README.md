@@ -6,7 +6,7 @@ I'm very new to coding, but I'm excited to learn and grow my skills.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects for beginners. I'd love the opportunity to learn with others!
 
-# 📫 How to reach me ...
+# 📫 How to reach me 
 Feel free to reach out to me on here for pair coding, study sessions, or just chats.
 
 # ⚡ Fun fact
